@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="gpslocater.project.plotter.newAct">
+    <item android:id="@+id/menu_save"
+        android:title="Save in Db" />
+    <item android:id="@+id/menu_show"
+        android:title="Show Db" />
+</menu>
