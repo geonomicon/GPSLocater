@@ -6,6 +6,7 @@ import android.location.Location;
 import android.location.LocationManager;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
@@ -17,9 +18,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MapsActivity extends FragmentActivity {
-
-    private Double lat,lng;
-    DBHelper mydb;
+    Log log;
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
 
     @Override
@@ -36,10 +35,19 @@ public class MapsActivity extends FragmentActivity {
     }
 
     private void getlatlng(){
+        DBHelper mydb = new DBHelper(this);
         LocationManager lm = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
         Location location = lm.getLastKnownLocation(LocationManager.GPS_PROVIDER);
-        double lng = location.getLongitude();
-        double lat = location.getLatitude();
+        Double lng = location.getLongitude();
+        Double lat = location.getLatitude();
+        log.d("lat",lat.toString());
+        log.d("lng",lng.toString());
+//        try {
+//            mydb.insertReading(lat.toString(), lng.toString());
+//        }catch(NullPointerException Ne) {
+//            mydb.insertReading(lat.toString(), lng.toString());
+//           // Toast.makeText(getBaseContext(),Ne.toString(),Toast.LENGTH_LONG).show();
+//        }
         setUpMapIfNeeded(lat, lng);
     }
 
@@ -71,8 +79,19 @@ public class MapsActivity extends FragmentActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
         if (id == R.id.menu_save) {
-            if(lat!=null) mydb.insertReading(lat.toString(),lng.toString());
-            else Toast.makeText(getBaseContext(),"Coords not available try to reload App",Toast.LENGTH_LONG).show();
+            DBHelper mydb = new DBHelper(this);
+            LocationManager lm = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
+            Location location = lm.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+            Double lng = location.getLongitude();
+            Double lat = location.getLatitude();
+            log.d("lat",lat.toString());
+            log.d("lng",lng.toString());
+            try {
+                mydb.insertReading(lat.toString(), lng.toString());
+                Toast.makeText(getBaseContext(),"Saved",Toast.LENGTH_LONG).show();
+            }catch(NullPointerException Ne) {
+                 Toast.makeText(getBaseContext(),Ne.toString(),Toast.LENGTH_LONG).show();
+            }
         }
         if (id == R.id.menu_show) {
             Intent i = new Intent(this,DbActivity.class);

@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * Created by rajat on 7/31/2015.
  */
 public class DBHelper extends SQLiteOpenHelper{
-    public static final String DATABASE_NAME = "GPS.db";
+    public static final String DATABASE_NAME = "GPSlast.db";
     public static final String LOCATION_TABLE_NAME = "Readings";
     public static final String LOCATION_COLUMN_ID = "id";
     public static final String LOCATION_COLUMN_LAT = "Lat";

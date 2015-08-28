@@ -2,6 +2,223 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-a863af05e9e8f96e53277ad57d2d52857fec7aea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-6b59a286ab81261e10cfadae3adc0059445f18ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0b1d2394cba4a491d7ea8e707960f903e81e184f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-3fa3f370ff56f994bf40e9a4d52e161cef8c3045.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-09838b4ea10816127109bad9c2abf7dc74ca475a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-3b6930ac32130676be3cea9faaec883b42a6a1ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-cfdef536511ac51c0abfacf3f4b5ff3666c9a3e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-665bf081acc76e001f5ed2e4245918c4f1b13b8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-60b8050f60c65a0fb27fa090675a01273c88efd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-aa3877d93088f057678c16add6ff6504f7b636e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-57006b96d8c83b72d40d265f1cf8ff44905ccb72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-b508438aed667711407047adc6e3b2932fddddf5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-fadfa8ac8788f9e8eb1059b56bcea92cdbe1c1cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-987932c8b309d788c77123a54f065861483f42e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-58d73251ec0215d87b40e12d1f89236e74270380.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-03d7de0a39665e5a7ad2e73f3e5e109eb71f284d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-07f93affcc3d01719679d7839c771c00bbe983d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5fc1afe465dde59181ac2cd0f431e1c5a213ccc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-4950757e77a0a4828feb42cb6badc324093acad1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-62609a6023e6ba68a794e498c5c03d4d0c3c1a83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-ffccc0d4b6d3a26abaf1c05e11019f4fc91b2467.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-4cfa3297fa9241346e8ae269ffcbcffc66503f5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-02d103932ee6d3c78b73f70de62c95f53ac94435.jar" />
+    </item>
+    <item
+        jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-82c6482ff801b31a57f1853ebf8314f50b7b4cd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-1e48fc6864998bfc827ae751674add93acbd7a3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-fb4104e248337da156bea918ce951d642453d366.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-ee7667f0db3b19191e88d9146100dc05a6c2c967.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-e423acd54e0281d885f83f660eb0c2869ae5a496.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-98b5902ff5cd382345bbb10b1f4ef55be9cd690a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-9e126bfa37adf5710effec9de0bab319205f9dad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-a57cfe7ff2eb50a45e1fc3a069567fa1f7d9a868.jar" />
+    </item>
+    <item
         jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -16,102 +233,18 @@
         <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-fa1726653606ade8e1715768c0722a9d0019adf6.jar" />
     </item>
     <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-6b59a286ab81261e10cfadae3adc0059445f18ae.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-3fa3f370ff56f994bf40e9a4d52e161cef8c3045.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-3b6930ac32130676be3cea9faaec883b42a6a1ff.jar" />
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-3cbc04362c2f276ec6e6cb619bf35e81c02fdecc.jar" />
     </item>
     <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-9e126bfa37adf5710effec9de0bab319205f9dad.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-09838b4ea10816127109bad9c2abf7dc74ca475a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-4cfa3297fa9241346e8ae269ffcbcffc66503f5e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-62609a6023e6ba68a794e498c5c03d4d0c3c1a83.jar" />
-    </item>
-    <item
-        jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-82c6482ff801b31a57f1853ebf8314f50b7b4cd1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-02d103932ee6d3c78b73f70de62c95f53ac94435.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-f27e2a50e210a49c39d95ec46adc9e5912050091.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-dde26c085c27e03ead85047f5faa1e442196104a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-e423acd54e0281d885f83f660eb0c2869ae5a496.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-ffccc0d4b6d3a26abaf1c05e11019f4fc91b2467.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-03d7de0a39665e5a7ad2e73f3e5e109eb71f284d.jar" />
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-e23e1e7713758e47635949c53446a1917beb556c.jar" />
     </item>
     <item
         jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
@@ -121,25 +254,11 @@
         <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-e3bbebbda12d5ea8b54f39c7f1b7364ac359859e.jar" />
     </item>
     <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-8f622d3c1affe61c9c2d53f69ac19c1c2ed6396c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-aa3877d93088f057678c16add6ff6504f7b636e3.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-07f93affcc3d01719679d7839c771c00bbe983d0.jar" />
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-09a57e4a0838fa5e05fb2feb98095d00c0465fd7.jar" />
     </item>
     <item
         jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
@@ -149,18 +268,11 @@
         <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-32df68497d0c87447a600ed7e3d30a56a05ad86e.jar" />
     </item>
     <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-f310f440bda832710d3b44e54d8781d25ed87293.jar" />
-    </item>
-    <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-60b8050f60c65a0fb27fa090675a01273c88efd8.jar" />
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-8f622d3c1affe61c9c2d53f69ac19c1c2ed6396c.jar" />
     </item>
     <item
         jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
@@ -170,6 +282,27 @@
         <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-40494d34d8c573239565ccd8fd9888e1663e70fc.jar" />
     </item>
     <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-dde26c085c27e03ead85047f5faa1e442196104a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-85d136fbf9a5929f58422f01d8bd03110d230529.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-86c8671890904fe06acb38063e39fd23e83976a8.jar" />
+    </item>
+    <item
         jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -177,11 +310,53 @@
         <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-9bc56497229ddc2cb3169e8813a836089ae8d30a.jar" />
     </item>
     <item
-        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-fadfa8ac8788f9e8eb1059b56bcea92cdbe1c1cb.jar" />
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-16da3a8d8f762623ac65b2216c9d69026821f087.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-26d6c9424b41eadeafeeff101b645a9a5adb2439.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-f310f440bda832710d3b44e54d8781d25ed87293.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-87c7a9a373fd21bb876a5d83478bcbd186374543.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-5159b23fcef26dfa9934bdb94e409af7a6fc1685.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPLOTTER FINAL\GPSLocater\app\build\intermediates\pre-dexed\debug\classes-b0fb83d8e7ab17448c7ab2a26eb575286e6b698a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Rajat\Desktop\GPSPlotter-master\app\build\intermediates\pre-dexed\debug\classes-f27e2a50e210a49c39d95ec46adc9e5912050091.jar" />
     </item>
 
 </items>
